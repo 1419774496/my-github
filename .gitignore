@@ -1,0 +1,13 @@
+# 忽略程序安装包
+*.exe
+*.msi
+*.zip
+*.rar
+*.7z
+
+# 日志
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
